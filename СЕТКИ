@@ -1,0 +1,6 @@
+CONTAINER-FLUID --> ekranni butunlaen korsatadi butun container
+CONAEINER --> contanerni container-fluiddan farqi container-fluid ekranni butunlaen korsatsa container ongdan chapdan azgina olib korsatadi butun ekranni korsatmidide
+sal kichkinaro korsatadi
+row --> row digani chiziq digani -------- chizqni center dip ortaga oborsayam boladi chetka oborsayam boladi
+col --> col ustun har bitta chiziqda 12 ta ustun boladi yani har bitta rowda 12 ta col boladi. Col ekranni razmeriga qarab har xil yoziladi. 540pxli ekranlada yani kotta telefon
+yoki planshetlada col-sm- yoziladi;  720pxda: col-md- yoziladi; 960pxda: col-lg- yoziladi; 1140pxda: col-xl- yoziladi.
